@@ -1,7 +1,13 @@
-<h1 align="center" style="color:#c13879;background-color:#1f2023;border-style:solid;outline:2px solid;text-shadow: 2px 2px 0px White;"> Hi there, I'm Songwaad 👋😄</h1>
+<h1 align="center" style="color:#c13879;background-color:#1f2023;border-style:solid;outline:2px solid;text-shadow: 2px 2px 0px White;"> Hi there, I'm Songwaad 👋</h1>
 
 ### 🏫 Where am I currently studying
 - I'm a 3rd year student, studying computer science [@Ramkhamhaeng University](https://www.ru.ac.th/th/)
+
+### ✔ What have I done
+- [OOP](https://github.com/songwaad/oop-with-cpp) Study using C++ 
+- [Data Structures](https://github.com/songwaad/data-structures-with-java) Study using JAVA
+- Web application [Movie Booking](https://github.com/songwaad/movie-booking-system) front-end using HTML, CSS and JavaScript and and back-end using Java Servlets and MySQL
+- [Design Pattern](https://github.com/songwaad/design-patterns-with-java) Study using JAVA
 
 ### 🌱 What am I currently learning
 - TypeScript
