@@ -17,7 +17,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Songwaad&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Songwaad&layout=compact&theme=dracula&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-### ⚙ Languages and Tools
+### ⚙ Skiils
 
 <div style="display:flex;">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
