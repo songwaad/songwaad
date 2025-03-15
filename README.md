@@ -35,5 +35,5 @@
 </div>
 
 ### 📬 Contact me
-- Email : **Song44d@gmail.com**
-- Linkedin : [Songwaad Hathaiaussawin](https://www.linkedin.com/in/Songwaad/)
+- Email : **songw44d@gmail.com**
+- Linkedin : [Songwaad Hathaiaussawin](https://www.linkedin.com/in/songwaad/)
