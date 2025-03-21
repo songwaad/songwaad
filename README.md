@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#c13879;background-color:#1f2023;border-style:solid;outline:2px solid;text-shadow: 2px 2px 0px White;"> Hi there, I'm Songwaad 👋</h1>
 
 ### 🏫 Where am I currently studying
-- I'm a 3rd year student, studying computer science [@Ramkhamhaeng University](https://www.ru.ac.th/th/)
+- I'm a 2nd year student, studying computer science [@Ramkhamhaeng University](https://www.ru.ac.th/th/)
 
 ### ✔ What have I done
 - [OOP](https://github.com/songwaad/oop-with-cpp) Study using C++ 
