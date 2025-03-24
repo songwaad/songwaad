@@ -4,8 +4,9 @@
 - I'm a 2nd year student, studying computer science [@Ramkhamhaeng University](https://www.ru.ac.th/th/)
 
 ### ✔ What have I done
-- [OOP](https://github.com/songwaad/oop-with-cpp) Study using C++ 
-- [Design Pattern](https://github.com/songwaad/design-patterns-with-java) Study using JAVA
+- Educational examples for [Object-Oriented Programming](https://github.com/songwaad/oop-with-cpp.git) with C++.
+- Educational implementations of [Design Patterns](https://github.com/songwaad/design-patterns-with-java.git) with Java.
+- Backend for [CS Event Management](https://github.com/songwaad/cs-event-backend.git) with Go, Fiber, GORM and PostgreSQL.
 
 ### 🌱 What am I currently learning
 - Go
