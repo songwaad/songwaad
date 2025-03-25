@@ -6,7 +6,7 @@
 ### ✔ What have I done
 - Educational examples for [Object-Oriented Programming](https://github.com/songwaad/oop-with-cpp.git) with C++.
 - Educational implementations of [Design Patterns](https://github.com/songwaad/design-patterns-with-java.git) with Java.
-- Backend API for [CS Event Management](https://github.com/songwaad/cs-event-backend.git) with Go, Fiber, GORM and PostgreSQL.
+- Backend API for [CS Events](https://github.com/songwaad/cs-event-backend.git) with Clean Architecture, Go, Fiber, GORM, and PostgreSQL.
 
 ### 🌱 What am I currently learning
 - Go
