@@ -1,5 +1,8 @@
 <h1 align="center" style="color:#c13879;background-color:#1f2023;border-style:solid;outline:2px solid;text-shadow: 2px 2px 0px White;"> Hi there, I'm Songwaad 👋</h1>
 
+### 🏫 Where am I currently studying
+- I'm a 2nd year student, studying computer science [@Ramkhamhaeng University](https://www.ru.ac.th/th/)
+
 ### ✔ What have I done
 - Practical implementations of [Design Patterns](https://github.com/songwaad/design-patterns.git) in Java.
 - Backend API for [CS Events](https://github.com/songwaad/cs-event-backend.git) with Clean Architecture, Go, Fiber, GORM, and PostgreSQL.
@@ -20,3 +23,4 @@
 
 ### 📬 Contact me
 - Email : **songw44d@gmail.com**
+- Linkedin : [Songwaad Hathaiaussawin](https://www.linkedin.com/in/songwaad/)
