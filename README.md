@@ -6,6 +6,8 @@
 ### ✔ What have I done
 - Practical implementations of [Design Patterns](https://github.com/songwaad/design-patterns.git) in Java.
 - Backend API for [CS Events](https://github.com/songwaad/cs-event-backend.git) with Clean Architecture, Go, Fiber, GORM, and PostgreSQL.
+- [OOP](https://github.com/songwaad/cos2101-cpp-oop) assignments in C++
+
 
 ### 🌱 What am I currently learning
 - Python – Assignments for [COS2210 Python Programming](https://github.com/songwaad/cos2210-python)
