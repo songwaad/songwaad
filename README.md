@@ -10,6 +10,7 @@
 
 
 ### 🌱 What am I currently learning
+- [LeetCode Daily Practice](https://github.com/username/leetcode-daily-practice) – Daily LeetCode problem solving practice.
 - Python – Assignments for [COS2210 Python Programming](https://github.com/songwaad/cos2210-python)
 - Data Science – Assignments for [COS3302 Applied Data Science](https://github.com/songwaad/cos3302-data-science)
 
