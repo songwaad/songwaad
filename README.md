@@ -12,7 +12,6 @@
 ### 🌱 What am I currently learning
 - [LeetCode Daily Practice](https://github.com/songwaad/leetcode-daily-practice) – Daily LeetCode problem solving practice.
 - Python – Assignments for [COS2210 Python Programming](https://github.com/songwaad/cos2210-python)
-- Data Science – Assignments for [COS3302 Applied Data Science](https://github.com/songwaad/cos3302-data-science)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Songwaad&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Songwaad&layout=compact&theme=dracula&hide_border=true&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
